@@ -42,6 +42,12 @@ A sleek and dynamic portfolio web application built with **React** and **Tailwin
 
 ### ⚡ Installation
 
+
+<h1>Video </h1>
+https://drive.google.com/file/d/1yZgIIWzsh-riDudpXeOzRDifik82HNVN/view?usp=sharing
+
+
+<br>
 ```bash
 npm install
 npm run dev
