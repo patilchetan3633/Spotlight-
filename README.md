@@ -14,3 +14,37 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+
+
+
+## 🚀 Modern Portfolio Web App
+
+A sleek and dynamic portfolio web application built with **React** and **Tailwind CSS**. This project is designed to showcase projects, experience, and articles in a clean, elegant, and user-friendly interface with smooth transitions and theme switching.
+
+### 🔥 Key Highlights
+
+* Responsive layout for all screen sizes
+* Dark / Light mode toggle
+* Minimal and modern UI
+* Organized project and article sections
+* Optimized for fast loading
+* Reusable component-based structure
+
+### 🧰 Tech Stack
+
+* React.js
+* Tailwind CSS
+* Vite
+* JavaScript
+
+### ⚡ Installation
+
+```bash
+npm install
+npm run dev
+```
+
+
